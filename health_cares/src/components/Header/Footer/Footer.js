@@ -115,7 +115,7 @@ const Footer = () => {
                   target="_blank"
                   rel="noopener noreferrer"
                 >
-                  Gorakhpur ,UttarPradesh.
+                  Kapilvastu,Nepal.
                 </a>
               </Stack>
 
@@ -133,7 +133,7 @@ const Footer = () => {
                   <EmailIcon />
                 </Avatar>
                 <a className="text-style" href="mailto:satyakumarchaudhary603@gmail.com">
-                  satyakumarchaudhary603@gmail.com
+                  sandip508@gamil.com
                 </a>
               </Stack>
 
@@ -148,7 +148,7 @@ const Footer = () => {
                   <CallIcon />
                 </Avatar>
                 <a className="text-style" href="mobile:8934856824">
-                  +91 8934856824
+                  +977 9818679521
                 </a>
               </Stack>
             </Grid>
@@ -222,11 +222,11 @@ const Footer = () => {
                 </Avatar>
                 <a
                   className="text-style"
-                  href="https://www.instagram.com/satyakumar7193/"
+                  href="#"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
-                  Satya Kumar on Instagram
+                  Sandip kurmi on Instagram
                 </a>
               </Stack>
 
@@ -242,11 +242,11 @@ const Footer = () => {
                 </Avatar>
                 <a
                   className="text-style"
-                  href="https://www.linkedin.com/in/satya-kumar-/"
+                  href="#"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
-                  Satya Kumar on LinkedIn
+                  Sandip kurmi on LinkedIn
                 </a>
               </Stack>
 
@@ -262,11 +262,11 @@ const Footer = () => {
                 </Avatar>
                 <a
                   className="text-style"
-                  href="https://github.com/satyakumarch"
+                  href="#"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
-                  Satya Kumar on GitHub
+                  Sandip kurmi on GitHub
                 </a>
               </Stack>
               <Stack
@@ -281,11 +281,11 @@ const Footer = () => {
                 </Avatar>
                 <a
                   className="text-style"
-                  href="https://www.facebook.com/satyakumar.chaudhary.18"
+                  href="#"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
-                  Satya Kumar on Facebook
+                  Sandip Kurmi on Facebook
                 </a>
               </Stack>
             </Grid>
