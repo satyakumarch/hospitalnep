@@ -4,6 +4,5 @@ Main Function Points
 Provides healthcare-related services or information for hospitals in Nepal
 Allows users to access and interact with the healthcare system in Nepal
 Technology Stack
-JavaScript
-CSS
-HTML
+Front-end(React)
+Back-end(Node js)
