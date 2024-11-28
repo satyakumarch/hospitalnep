@@ -6,6 +6,31 @@ Allows users to access and interact with the healthcare system in Nepal
 Technology Stack
 Front-end(React)
 Back-end(Node js)
+
+
 [CLIET.pdf](https://github.com/user-attachments/files/17947205/CLIET.pdf)
-[food website.pdf](https://github.com/user-attachments/[PROJECTBY.pdf](https://github.com/user-attachments/files/17947209/PROJECTBY.pdf)
-files/17947208/food.website.pdf)
+
+
+[food website.pdf](https://github.com/user-attachments/files/17947224/food.website.pdf)
+
+
+[react.pdf](https://github.com/user-attachments/files/17947225/react.pdf)
+
+
+[PROJECTBY.pdf](https://github.com/user-attachments/files/17947226/PROJECTBY.pdf)
+
+
+[HospitalManagement.pptx](https://github.com/user-attachments/files/17947239/HospitalManagement.pptx)
+
+
+
+
+[HospitalManagement.pptx](https://github.com/user-attachments/files/17947251/HospitalManagement.pptx)
+
+
+[food.pptx](https://github.com/user-attachments/files/17947249/food.pptx)
+
+
+[OnlineFoodphp.pptx](https://github.com/user-attachments/files/17947248/OnlineFoodphp.pptx)
+
+
